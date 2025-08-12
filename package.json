@@ -1,0 +1,33 @@
+{
+  "name": "claude-voice-assistant",
+  "version": "1.0.0",
+  "description": "AI-powered voice interface for Claude",
+  "main": "index.html",
+  "scripts": {
+    "start": "python voice-interface.py",
+    "dev": "live-server",
+    "build": "echo 'No build required for static files'",
+    "test": "echo 'No tests configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahiliberman/claude-voice-assistant.git"
+  },
+  "keywords": [
+    "claude",
+    "ai",
+    "voice",
+    "assistant",
+    "speech",
+    "recognition"
+  ],
+  "author": "Tzachi Liberman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zahiliberman/claude-voice-assistant/issues"
+  },
+  "homepage": "https://github.com/zahiliberman/claude-voice-assistant#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

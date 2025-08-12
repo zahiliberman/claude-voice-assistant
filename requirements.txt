@@ -1,0 +1,10 @@
+anthropic>=0.3.0
+python-dotenv>=1.0.0
+speech-recognition>=3.10.0
+pyttsx3>=2.90
+pyaudio>=0.2.11
+requests>=2.31.0
+numpy>=1.24.0
+websocket-client>=1.5.0
+colorama>=0.4.6
+rich>=13.0.0
